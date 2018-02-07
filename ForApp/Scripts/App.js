@@ -31,7 +31,7 @@ function execCrossDomainRequest() {
         {
             url:
                 appweburl +
-                    "/_api/SP.AppContextSite(@target)/web/lists/getbytitle('DomesticCollect')/items?&@target='" +
+                    "/_api/SP.AppContextSite(@target)/web/lists/getbytitle('Domestic Collect Order')/items?&@target='" +
                         encodeURIComponent(hostweburl) + "'",
             method: "GET",
             headers: { "Accept": "application/json; odata=verbose" },

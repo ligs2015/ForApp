@@ -1,3 +1,0 @@
-c:\users\ligus\documents\visual studio 2013\Projects\ForApp\ForApp\bin\Debug\ForApp.pdb
-c:\users\ligus\documents\visual studio 2013\Projects\ForApp\ForApp\obj\Debug\ForApp.dll
-c:\users\ligus\documents\visual studio 2013\Projects\ForApp\ForApp\obj\Debug\ForApp.pdb
