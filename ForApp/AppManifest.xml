@@ -15,6 +15,6 @@
     <Internal />
   </AppPrincipal>
   <AppPermissionRequests>
-    <AppPermissionRequest Scope="http://sharepoint/content/sitecollection" Right="Write" />
+    <AppPermissionRequest Scope="http://sharepoint/content/tenant" Right="Write" />
   </AppPermissionRequests>
 </App>
